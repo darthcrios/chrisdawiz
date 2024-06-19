@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisdawiz
+- 👋 Hi, I’m @darthcrios
 - 👀 I’m interested in Programming, Music VSTS , Code Puzzles, Chess
 - 🌱 I’m currently learning python and playing in Cabbage with Csound
 - 💞️ I’m looking to collaborate on Python projects, Csound projects! (I am teaching myself so all help is needed!)
